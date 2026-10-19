@@ -6,7 +6,7 @@ I build 3D reconstruction systems that hold up on messy, real-world imagery — 
 
 🏆 **#1 · IARPA WRIVA Cross-View Geo-Localization Challenge 2026**
 
-[Website](https://www.chandrakanthgudavalli.com) · [Google Scholar](https://scholar.google.com/citations?user=TyzK9okAAAAJ) · [LinkedIn](https://www.linkedin.com/in/gudavallic) · [Email](mailto:chandrakanthgudavalli@gmail.com)
+[Website](https://www.chandrakanthgudavalli.com) · [Google Scholar](https://scholar.google.com/citations?user=TyzK9okAAAAJ) · [LinkedIn](https://www.linkedin.com/in/gudavallic) · Email: `chandrakanthgudavalli@gmail.com`
 
 <img src="https://www.chandrakanthgudavalli.com/media/hero-dense.jpg" alt="Dense 3D reconstruction of the JHU campus" width="100%">
 
@@ -27,4 +27,4 @@ Full list on [my website](https://www.chandrakanthgudavalli.com/#publications) a
 
 ---
 
-Open to 3D vision and spatial-AI roles — the fastest way to reach me is [email](mailto:chandrakanthgudavalli@gmail.com).
+Open to 3D vision and spatial-AI roles — the fastest way to reach me is email: `chandrakanthgudavalli@gmail.com`
